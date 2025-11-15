@@ -1,0 +1,14 @@
+{
+    "name": "Pietensprong",
+    "icons": [
+        {
+            "src": "assets/pietenjump/icons/chrome-touch-icon-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "density": "4.0"
+        }
+    ],
+    "start_url": "pietenjump.html",
+    "display": "standalone",
+    "orientation": "landscape"
+}

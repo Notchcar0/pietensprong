@@ -1,0 +1,582 @@
+{
+  "meta": {
+    "image": "piet@2x.png",
+    "size": {
+      "w": 2040,
+      "h": 582
+    },
+    "scale": 2
+  },
+  "frames": {
+    "piet-pietje-skippybal-schaduw": {
+      "frame": {
+        "x": 1,
+        "y": 1,
+        "w": 191,
+        "h": 304
+      },
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2,
+        "y": 0,
+        "w": 191,
+        "h": 304
+      },
+      "sourceSize": {
+        "w": 228,
+        "h": 316
+      }
+    },
+    "piet-pietje-vogel-schaduw": {
+      "frame": {
+        "x": 194,
+        "y": 1,
+        "w": 217,
+        "h": 270
+      },
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 10,
+        "y": 30,
+        "w": 217,
+        "h": 270
+      },
+      "sourceSize": {
+        "w": 228,
+        "h": 316
+      }
+    },
+    "piet-pietje-ontploft-schaduw": {
+      "frame": {
+        "x": 413,
+        "y": 1,
+        "w": 198,
+        "h": 250
+      },
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 48,
+        "w": 198,
+        "h": 250
+      },
+      "sourceSize": {
+        "w": 228,
+        "h": 316
+      }
+    },
+    "piet-pietje-basic-schaduw": {
+      "frame": {
+        "x": 613,
+        "y": 1,
+        "w": 179,
+        "h": 246
+      },
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 3,
+        "y": 54,
+        "w": 179,
+        "h": 246
+      },
+      "sourceSize": {
+        "w": 228,
+        "h": 316
+      }
+    },
+    "piet-pietje-basic-springt-schaduw": {
+      "frame": {
+        "x": 794,
+        "y": 1,
+        "w": 179,
+        "h": 246
+      },
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 3,
+        "y": 56,
+        "w": 179,
+        "h": 246
+      },
+      "sourceSize": {
+        "w": 228,
+        "h": 316
+      }
+    },
+    "piet-pietje-basic-val-schaduw": {
+      "frame": {
+        "x": 975,
+        "y": 1,
+        "w": 179,
+        "h": 246
+      },
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 3,
+        "y": 54,
+        "w": 179,
+        "h": 246
+      },
+      "sourceSize": {
+        "w": 228,
+        "h": 316
+      }
+    },
+    "piet-pietje-hoofd-vogel": {
+      "frame": {
+        "x": 1156,
+        "y": 1,
+        "w": 147,
+        "h": 187
+      },
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 53,
+        "y": 0,
+        "w": 147,
+        "h": 187
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 188
+      }
+    },
+    "piet-pietje-skippybal": {
+      "frame": {
+        "x": 1305,
+        "y": 1,
+        "w": 149,
+        "h": 171
+      },
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 9,
+        "y": 127,
+        "w": 149,
+        "h": 171
+      },
+      "sourceSize": {
+        "w": 228,
+        "h": 316
+      }
+    },
+    "piet-pietje-hoofd-basic": {
+      "frame": {
+        "x": 1456,
+        "y": 1,
+        "w": 158,
+        "h": 165
+      },
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 38,
+        "y": 17,
+        "w": 158,
+        "h": 165
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 188
+      }
+    },
+    "piet-pietje-hoofd-boven": {
+      "frame": {
+        "x": 1616,
+        "y": 1,
+        "w": 158,
+        "h": 165
+      },
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 38,
+        "y": 17,
+        "w": 158,
+        "h": 165
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 188
+      }
+    },
+    "piet-pietje-hoofd-ontploft": {
+      "frame": {
+        "x": 1776,
+        "y": 1,
+        "w": 157,
+        "h": 165
+      },
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 39,
+        "y": 17,
+        "w": 157,
+        "h": 165
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 188
+      }
+    },
+    "piet-pietje-hoofd-basic-springt-nobag": {
+      "frame": {
+        "x": 1,
+        "y": 307,
+        "w": 156,
+        "h": 165
+      },
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 40,
+        "y": 16,
+        "w": 156,
+        "h": 165
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 188
+      }
+    },
+    "piet-pietje-hoofd-basic-springt": {
+      "frame": {
+        "x": 159,
+        "y": 307,
+        "w": 156,
+        "h": 165
+      },
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 40,
+        "y": 16,
+        "w": 156,
+        "h": 165
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 188
+      }
+    },
+    "piet-pietje-hoofd-basic-val-nobag": {
+      "frame": {
+        "x": 317,
+        "y": 307,
+        "w": 156,
+        "h": 165
+      },
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 40,
+        "y": 16,
+        "w": 156,
+        "h": 165
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 188
+      }
+    },
+    "piet-pietje-hoofd-basic-val": {
+      "frame": {
+        "x": 475,
+        "y": 307,
+        "w": 156,
+        "h": 165
+      },
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 40,
+        "y": 16,
+        "w": 156,
+        "h": 165
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 188
+      }
+    },
+    "piet-pietje-hoofd-boven-danst": {
+      "frame": {
+        "x": 633,
+        "y": 307,
+        "w": 156,
+        "h": 165
+      },
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 39,
+        "y": 18,
+        "w": 156,
+        "h": 165
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 188
+      }
+    },
+    "piet-pietje-hoofd-skippybal": {
+      "frame": {
+        "x": 791,
+        "y": 307,
+        "w": 156,
+        "h": 165
+      },
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 40,
+        "y": 18,
+        "w": 156,
+        "h": 165
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 188
+      }
+    },
+    "piet-pietje-hoofd-dood": {
+      "frame": {
+        "x": 949,
+        "y": 307,
+        "w": 172,
+        "h": 148
+      },
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 36,
+        "w": 172,
+        "h": 148
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 188
+      }
+    },
+    "piet-pietje-vogel": {
+      "frame": {
+        "x": 1123,
+        "y": 307,
+        "w": 154,
+        "h": 145
+      },
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 16,
+        "y": 148,
+        "w": 154,
+        "h": 145
+      },
+      "sourceSize": {
+        "w": 228,
+        "h": 316
+      }
+    },
+    "piet-pietje-ontploft": {
+      "frame": {
+        "x": 1279,
+        "y": 307,
+        "w": 179,
+        "h": 120
+      },
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 8,
+        "y": 173,
+        "w": 179,
+        "h": 120
+      },
+      "sourceSize": {
+        "w": 228,
+        "h": 316
+      }
+    },
+    "piet-pietje-boven-danst": {
+      "frame": {
+        "x": 1460,
+        "y": 307,
+        "w": 130,
+        "h": 113
+      },
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 31,
+        "y": 188,
+        "w": 130,
+        "h": 113
+      },
+      "sourceSize": {
+        "w": 228,
+        "h": 316
+      }
+    },
+    "piet-pietje-basic-springt": {
+      "frame": {
+        "x": 1592,
+        "y": 307,
+        "w": 130,
+        "h": 112
+      },
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 31,
+        "y": 188,
+        "w": 130,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 228,
+        "h": 316
+      }
+    },
+    "piet-pietje-basic-val": {
+      "frame": {
+        "x": 1724,
+        "y": 307,
+        "w": 155,
+        "h": 107
+      },
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 9,
+        "y": 187,
+        "w": 155,
+        "h": 107
+      },
+      "sourceSize": {
+        "w": 228,
+        "h": 316
+      }
+    },
+    "piet-pietje-basic": {
+      "frame": {
+        "x": 1881,
+        "y": 307,
+        "w": 155,
+        "h": 107
+      },
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 9,
+        "y": 187,
+        "w": 155,
+        "h": 107
+      },
+      "sourceSize": {
+        "w": 228,
+        "h": 316
+      }
+    },
+    "piet-pietje-basic-springt-nobag": {
+      "frame": {
+        "x": 1935,
+        "y": 1,
+        "w": 100,
+        "h": 105
+      },
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 62,
+        "y": 189,
+        "w": 100,
+        "h": 105
+      },
+      "sourceSize": {
+        "w": 228,
+        "h": 316
+      }
+    },
+    "piet-pietje-boven": {
+      "frame": {
+        "x": 1,
+        "y": 474,
+        "w": 150,
+        "h": 104
+      },
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 31,
+        "y": 191,
+        "w": 150,
+        "h": 104
+      },
+      "sourceSize": {
+        "w": 228,
+        "h": 316
+      }
+    },
+    "piet-pietje-dood-2": {
+      "frame": {
+        "x": 153,
+        "y": 474,
+        "w": 129,
+        "h": 104
+      },
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 35,
+        "y": 212,
+        "w": 129,
+        "h": 104
+      },
+      "sourceSize": {
+        "w": 228,
+        "h": 316
+      }
+    },
+    "piet-pietje-boven-springt": {
+      "frame": {
+        "x": 284,
+        "y": 474,
+        "w": 150,
+        "h": 102
+      },
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 33,
+        "y": 191,
+        "w": 150,
+        "h": 102
+      },
+      "sourceSize": {
+        "w": 228,
+        "h": 316
+      }
+    },
+    "piet-pietje-basic-val-nobag": {
+      "frame": {
+        "x": 436,
+        "y": 474,
+        "w": 117,
+        "h": 102
+      },
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 49,
+        "y": 191,
+        "w": 117,
+        "h": 102
+      },
+      "sourceSize": {
+        "w": 228,
+        "h": 316
+      }
+    },
+    "piet-pietje-dood-1": {
+      "frame": {
+        "x": 555,
+        "y": 474,
+        "w": 129,
+        "h": 85
+      },
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 35,
+        "y": 231,
+        "w": 129,
+        "h": 85
+      },
+      "sourceSize": {
+        "w": 228,
+        "h": 316
+      }
+    }
+  }
+}

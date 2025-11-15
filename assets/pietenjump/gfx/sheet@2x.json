@@ -1,0 +1,525 @@
+{
+  "meta": {
+    "image": "sheet@2x.png",
+    "size": {
+      "w": 2046,
+      "h": 498
+    },
+    "scale": 2
+  },
+  "frames": {
+    "sheet-ontploffing": {
+      "frame": {
+        "x": 1,
+        "y": 1,
+        "w": 468,
+        "h": 413
+      },
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 468,
+        "h": 413
+      },
+      "sourceSize": {
+        "w": 468,
+        "h": 414
+      }
+    },
+    "sheet-ontplof-aan": {
+      "frame": {
+        "x": 471,
+        "y": 1,
+        "w": 165,
+        "h": 223
+      },
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 165,
+        "h": 223
+      },
+      "sourceSize": {
+        "w": 166,
+        "h": 224
+      }
+    },
+    "sheet-control-button-links": {
+      "frame": {
+        "x": 638,
+        "y": 1,
+        "w": 199,
+        "h": 219
+      },
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 199,
+        "h": 219
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 220
+      }
+    },
+    "sheet-control-button-rechts": {
+      "frame": {
+        "x": 839,
+        "y": 1,
+        "w": 199,
+        "h": 219
+      },
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 199,
+        "h": 219
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 220
+      }
+    },
+    "sheet-ontplof-uit": {
+      "frame": {
+        "x": 1040,
+        "y": 1,
+        "w": 151,
+        "h": 205
+      },
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 151,
+        "h": 205
+      },
+      "sourceSize": {
+        "w": 166,
+        "h": 224
+      }
+    },
+    "sheet-raam-1": {
+      "frame": {
+        "x": 1193,
+        "y": 1,
+        "w": 142,
+        "h": 202
+      },
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 142,
+        "h": 202
+      },
+      "sourceSize": {
+        "w": 142,
+        "h": 202
+      }
+    },
+    "sheet-raam-2": {
+      "frame": {
+        "x": 1337,
+        "y": 1,
+        "w": 142,
+        "h": 202
+      },
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 142,
+        "h": 202
+      },
+      "sourceSize": {
+        "w": 142,
+        "h": 202
+      }
+    },
+    "sheet-raam-3": {
+      "frame": {
+        "x": 1481,
+        "y": 1,
+        "w": 142,
+        "h": 202
+      },
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 142,
+        "h": 202
+      },
+      "sourceSize": {
+        "w": 142,
+        "h": 202
+      }
+    },
+    "sheet-maan": {
+      "frame": {
+        "x": 1625,
+        "y": 1,
+        "w": 144,
+        "h": 169
+      },
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 144,
+        "h": 169
+      },
+      "sourceSize": {
+        "w": 144,
+        "h": 170
+      }
+    },
+    "sheet-schoorsteen-1": {
+      "frame": {
+        "x": 1771,
+        "y": 1,
+        "w": 142,
+        "h": 135
+      },
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 142,
+        "h": 135
+      },
+      "sourceSize": {
+        "w": 142,
+        "h": 136
+      }
+    },
+    "sheet-schoorsteen-2": {
+      "frame": {
+        "x": 471,
+        "y": 226,
+        "w": 142,
+        "h": 135
+      },
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 142,
+        "h": 135
+      },
+      "sourceSize": {
+        "w": 142,
+        "h": 136
+      }
+    },
+    "sheet-zak-open": {
+      "frame": {
+        "x": 1915,
+        "y": 1,
+        "w": 128,
+        "h": 123
+      },
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 123
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 124
+      }
+    },
+    "sheet-vogel-vliegt-1-schaduw": {
+      "frame": {
+        "x": 615,
+        "y": 226,
+        "w": 105,
+        "h": 109
+      },
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2,
+        "y": 0,
+        "w": 105,
+        "h": 109
+      },
+      "sourceSize": {
+        "w": 108,
+        "h": 122
+      }
+    },
+    "sheet-skippybal": {
+      "frame": {
+        "x": 722,
+        "y": 226,
+        "w": 86,
+        "h": 108
+      },
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 86,
+        "h": 108
+      },
+      "sourceSize": {
+        "w": 86,
+        "h": 108
+      }
+    },
+    "sheet-vogel-vliegt-1": {
+      "frame": {
+        "x": 810,
+        "y": 226,
+        "w": 95,
+        "h": 99
+      },
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 1,
+        "w": 95,
+        "h": 99
+      },
+      "sourceSize": {
+        "w": 108,
+        "h": 122
+      }
+    },
+    "sheet-vogel-vliegt-2-schaduw": {
+      "frame": {
+        "x": 907,
+        "y": 226,
+        "w": 105,
+        "h": 95
+      },
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 3,
+        "y": 26,
+        "w": 105,
+        "h": 95
+      },
+      "sourceSize": {
+        "w": 108,
+        "h": 122
+      }
+    },
+    "sheet-cadeau-3": {
+      "frame": {
+        "x": 1014,
+        "y": 226,
+        "w": 72,
+        "h": 90
+      },
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 72,
+        "h": 90
+      },
+      "sourceSize": {
+        "w": 72,
+        "h": 90
+      }
+    },
+    "sheet-cadeau-1": {
+      "frame": {
+        "x": 1088,
+        "y": 226,
+        "w": 71,
+        "h": 90
+      },
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 71,
+        "h": 90
+      },
+      "sourceSize": {
+        "w": 72,
+        "h": 90
+      }
+    },
+    "sheet-cadeau-2": {
+      "frame": {
+        "x": 1161,
+        "y": 226,
+        "w": 71,
+        "h": 89
+      },
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 71,
+        "h": 89
+      },
+      "sourceSize": {
+        "w": 72,
+        "h": 90
+      }
+    },
+    "sheet-vogel-vliegt-2": {
+      "frame": {
+        "x": 1234,
+        "y": 226,
+        "w": 95,
+        "h": 83
+      },
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 24,
+        "w": 95,
+        "h": 83
+      },
+      "sourceSize": {
+        "w": 108,
+        "h": 122
+      }
+    },
+    "sheet-vogel-zit": {
+      "frame": {
+        "x": 1331,
+        "y": 226,
+        "w": 85,
+        "h": 82
+      },
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 24,
+        "w": 85,
+        "h": 82
+      },
+      "sourceSize": {
+        "w": 108,
+        "h": 122
+      }
+    },
+    "sheet-vensterbank-dubbel": {
+      "frame": {
+        "x": 1418,
+        "y": 226,
+        "w": 321,
+        "h": 77
+      },
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 321,
+        "h": 77
+      },
+      "sourceSize": {
+        "w": 322,
+        "h": 78
+      }
+    },
+    "sheet-vensterbank-breek": {
+      "frame": {
+        "x": 1741,
+        "y": 226,
+        "w": 199,
+        "h": 77
+      },
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 199,
+        "h": 77
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 78
+      }
+    },
+    "sheet-vensterbank-heel": {
+      "frame": {
+        "x": 1,
+        "y": 416,
+        "w": 199,
+        "h": 77
+      },
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 199,
+        "h": 77
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 78
+      }
+    },
+    "sheet-plantje": {
+      "frame": {
+        "x": 1942,
+        "y": 226,
+        "w": 74,
+        "h": 74
+      },
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 74,
+        "h": 74
+      },
+      "sourceSize": {
+        "w": 74,
+        "h": 74
+      }
+    },
+    "sheet-vensterbank-breek-rechts": {
+      "frame": {
+        "x": 471,
+        "y": 363,
+        "w": 95,
+        "h": 37
+      },
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 77,
+        "y": 2,
+        "w": 95,
+        "h": 37
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 78
+      }
+    },
+    "sheet-vensterbank-breek-links": {
+      "frame": {
+        "x": 568,
+        "y": 363,
+        "w": 93,
+        "h": 35
+      },
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 2,
+        "w": 93,
+        "h": 35
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 78
+      }
+    }
+  }
+}

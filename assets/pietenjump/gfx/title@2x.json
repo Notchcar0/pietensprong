@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "image": "title@2x.png",
+    "size": {
+      "w": 1518,
+      "h": 714
+    },
+    "scale": 2
+  },
+  "frames": {
+    "title-uitleg-touch": {
+      "frame": {
+        "x": 1,
+        "y": 1,
+        "w": 788,
+        "h": 606
+      },
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 788,
+        "h": 606
+      },
+      "sourceSize": {
+        "w": 788,
+        "h": 606
+      }
+    },
+    "title-uitleg-computer": {
+      "frame": {
+        "x": 791,
+        "y": 1,
+        "w": 506,
+        "h": 554
+      },
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 506,
+        "h": 554
+      },
+      "sourceSize": {
+        "w": 506,
+        "h": 554
+      }
+    },
+    "title-uileg-popje": {
+      "frame": {
+        "x": 1299,
+        "y": 1,
+        "w": 215,
+        "h": 296
+      },
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 215,
+        "h": 296
+      },
+      "sourceSize": {
+        "w": 216,
+        "h": 296
+      }
+    },
+    "title-titel": {
+      "frame": {
+        "x": 1,
+        "y": 609,
+        "w": 862,
+        "h": 100
+      },
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 862,
+        "h": 100
+      },
+      "sourceSize": {
+        "w": 862,
+        "h": 100
+      }
+    }
+  }
+}
