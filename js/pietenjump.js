@@ -25397,8 +25397,8 @@
                 this.touchInterface.releaseRight()) : this.touchRight = !1)
             }
             checkKeyboard() {
-                this.isJumping && (this.isThrowing || (this.keyboardLeft = s.default.down(s.default.KEY_LEFT),
-                this.keyboardRight = s.default.down(s.default.KEY_RIGHT)))
+                this.isJumping && (this.isThrowing || (this.keyboardLeft = s.default.down(s.default.KEY_LEFT) || s.default.down(s.default.KEY_A),
+                this.keyboardRight = s.default.down(s.default.KEY_RIGHT) || s.default.down(s.default.KEY_D)))
             }
             startJumping() {
                 a.default.unregister(this, this.onJump),
